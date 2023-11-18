@@ -1,0 +1,7 @@
+.container-custom {
+    background-image: radial-gradient(circle, #7ab7e5, #61a4db, #4992d0, #2e7fc5, #066dba);
+}
+
+mat-form-field {
+    width: 100%;
+}
